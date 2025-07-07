@@ -1,0 +1,6 @@
+langchain
+python-dotenv
+langchain-openai
+faiss-cpu
+beautifulsoup4
+langchain-community
